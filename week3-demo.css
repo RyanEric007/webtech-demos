@@ -3,6 +3,13 @@ body {
     background-color: whitesmoke;
 }
 
+nav a {
+    color: white;
+    margin: 0 15px;
+    /*top,right,bottom,left*/
+    text-decoration: none;
+}
+
 .survey-form {
     background-color: white;
     padding: 30px;
